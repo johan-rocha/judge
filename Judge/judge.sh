@@ -30,7 +30,7 @@ if [ "$(echo $file | wc -w)" -eq 1 ]; then
         # Executar o programa
         output_program=$(./"$executable")
 
-        folder_output="../Expected Output"
+        folder_output="../ExpectedOutput"
 
         output_expected=$(cat "$folder_output/output.txt")
 
