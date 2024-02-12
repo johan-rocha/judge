@@ -65,7 +65,7 @@ O script judge.sh executa o julgamento das submissões de acordo com os seguinte
 ```
 6. Caso a saída seja divergente, o programa imprime "Wrong Answer" no terminal.
 ```
-     else
+            else
                 echo "Wrong Answer"
             fi
         fi
