@@ -1,4 +1,4 @@
-#Julgador
+# Julgador
 
 ## Estrutura de Pastas
 
