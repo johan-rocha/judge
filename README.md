@@ -2,14 +2,18 @@
 Para executar o judge.sh, é necessário que a estrutura de pastas esteja organizada da seguinte forma:
 
 judge/
+
 │
 ├── Submissions/
+
 │   ├── file.c
 │
 ├── ExpectedOutput/
+
 │   ├── output.txt
 │
 └── Judge/
+
     ├── judge.sh
 
 - Submissions/: Pasta onde os arquivos de submissão dos usuários são armazenados. Cada arquivo deve ser único e deve estar no formato .c.
