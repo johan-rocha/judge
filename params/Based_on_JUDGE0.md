@@ -1,0 +1,7 @@
+ - source code: código fonte do programa
+ - language_id: ID do idioma
+ - compile_options: opções do compilador, flags
+ - command_line_arguments: argumentos de linha de comando para o programa
+ - stdin: entrada padrão
+ - expected_output: limite de tempo de execução padrão para cada programa. O tempo em que o sistema operacional atribui o processador a diferentes tarefas não é contabilizado.
+ - cpu_extra_time: 
