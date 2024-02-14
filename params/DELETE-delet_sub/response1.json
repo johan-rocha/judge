@@ -1,0 +1,13 @@
+{
+    "stdout": "aGVsbG8sIHdvcmxkCg==\n",
+    "time": "0.045",
+    "memory": 8556,
+    "stderr": null,
+    "token": "e80153f5-e7d8-4cd2-9e10-6c0ddbf9e3bf",
+    "compile_output": null,
+    "message": null,
+    "status": {
+      "id": 3,
+      "description": "Accepted"
+    }
+  }
